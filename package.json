@@ -1,7 +1,6 @@
 {
   "name": "weekend_homwork",
   "version": "1.0.0",
-  "description": "",
   "main": "webpack.config.js",
   "dependencies": {
     "webpack": "^4.19.0",
@@ -13,5 +12,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
